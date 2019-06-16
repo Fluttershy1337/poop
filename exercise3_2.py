@@ -11,3 +11,4 @@ print("список индгридиентс фор гейсех2.0: ")
 	
 for i in range(len(ingridients)):
 	print('%s. ' % (i + 1) + ingridients[i])
+ 
